@@ -4,7 +4,7 @@
         <description><![CDATA[Japan Notebook]]></description>
         <link>https://thegrid.ai/japan-notebook/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 11:37:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 11:43:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/japan-notebook/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/japan-notebook/c40f6b0c-ff32-4d04-bdac-b00b99a4e114/index.html</link>
             <guid isPermaLink="false">c40f6b0c-ff32-4d04-bdac-b00b99a4e114</guid>
             <pubDate>Wed, 24 Feb 2016 11:36:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d14b5b8-4594-4eb0-8345-a4b03c1f7d29.jpg">]]></description>
+            <link>https://thegrid.ai/japan-notebook/6abfff26-b771-475c-a66f-5d9eb90ab872/index.html</link>
+            <guid isPermaLink="false">6abfff26-b771-475c-a66f-5d9eb90ab872</guid>
+            <pubDate>Wed, 24 Feb 2016 11:43:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
