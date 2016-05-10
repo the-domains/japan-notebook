@@ -1,7 +1,7 @@
 name: Japan Notebook
 favicon: null
-layout_spectrum: 0.95956
-typography_spectrum: 0.50128
+layout_spectrum: 0.32046
+typography_spectrum: 0.34016
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#820917'
     - '#a6565e'
     - '#9c9c9c'
-  brandStrength: 0.5
-  lightness: 0.1786147567909211
-  saturation: 0.8306814576499164
-  rhythmicContrast: 0
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
